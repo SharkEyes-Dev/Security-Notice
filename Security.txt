@@ -1,0 +1,76 @@
+# Security Policy
+
+## Supported Versions
+
+| Version | Supported |
+|---------|-----------|
+| Latest  | ✅        |
+
+---
+
+## Reporting a Vulnerability
+
+If you've found a security vulnerability in SharkEyes — please **do not open a public issue**.
+
+Report it privately via email:
+
+**hello@sharkeyes.dev**
+
+We take all reports seriously. Here's what to expect:
+
+- **48 hours** — confirmation that we received your report
+- **7 days** — initial assessment and severity evaluation
+- We'll keep you updated on the fix progress
+- We will **not** take legal action against researchers acting in good faith
+
+---
+
+## What to Include in Your Report
+
+- Description of the vulnerability and its potential impact
+- Steps to reproduce (proof of concept)
+- Affected component (API, JS widget, dashboard, etc.)
+- Your contact info for follow-up
+
+---
+
+## Scope
+
+**In scope:**
+- `sharkeyes.dev`
+- SharkEyes API endpoints
+- JavaScript verification widget
+
+**Out of scope:**
+- Websites of customers using SharkEyes
+- Third-party infrastructure
+- DoS/DDoS attacks
+- Social engineering
+
+---
+
+## Ground Rules
+
+To qualify as good-faith research, please:
+
+- Do not access or modify other users' data
+- Do not disrupt service availability
+- Do not perform automated scanning without prior agreement
+- Do not disclose the vulnerability publicly before we've confirmed the fix
+
+---
+
+## Our Commitment
+
+We believe security researchers make the internet safer. If you follow these rules, we commit to:
+
+- Working with you to understand and fix the issue
+- Crediting you (if you'd like) after the fix is released
+- Not pursuing legal action for good-faith research
+
+---
+
+## Contact
+
+📧 **hello@sharkeyes.dev**  
+🌐 **https://sharkeyes.dev**
